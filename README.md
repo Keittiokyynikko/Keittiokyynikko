@@ -1,4 +1,7 @@
-### Hi there 👋
+### Heippa 👋
+
+:technologist: 
+HTML5, CSS, Javascript, Python, C#, Java
 
 <!--
 **Keittiokyynikko/Keittiokyynikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
