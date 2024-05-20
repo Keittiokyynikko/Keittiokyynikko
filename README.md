@@ -1,7 +1,6 @@
 ### Heippa 👋
 
 :technologist: 
-HTML5, CSS, Javascript, Python, C#, Java
 
 ```Javascript
 const keittiokyynikko = {
