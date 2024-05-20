@@ -2,8 +2,17 @@
 
 :technologist: 
 HTML5, CSS, Javascript, Python, C#, Java
-```
-code this
+
+```Javascript
+const keittiokyynikko = {
+  pronouns: "he" | "him",
+  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP"],
+  frontEnd: {
+    libraries: ["React", "Vue.js"],
+    frameworks: ["Nuxt"],
+    tools: ["Bootstrap", "SCSS"]
+  }
+
 ```
 <!--
 **Keittiokyynikko/Keittiokyynikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
