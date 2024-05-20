@@ -5,12 +5,18 @@
 ```Javascript
 const keittiokyynikko = {
   pronouns: "he" | "him",
-  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP"],
+  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP", "C#"],
   frontEnd: {
     libraries: ["React", "Vue.js"],
-    frameworks: ["Nuxt"],
+    frameworks: ["Nuxt, Next"],
     tools: ["Bootstrap", "SCSS"]
-  }
+  },
+  backEnd: {
+    js: ["Node.js", "Express"],
+    apis: ["RESTful APIs"],
+    tools: ["Axios", "Puppeteer", "Sequelize"]
+  },
+  cms: ["Storyblok"]
 
 ```
 <!--
