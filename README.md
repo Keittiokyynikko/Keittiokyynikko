@@ -2,21 +2,29 @@
 
 :technologist: 
 
+<a href="https://www.linkedin.com/in/juuso-karvinen-601074186/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<br><br>
+
 ```Javascript
 const keittiokyynikko = {
-  pronouns: "he" | "him",
+  name: "Juuso",
+  description: "Creatively thinking accomplisher",
   languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP", "C#"],
   frontEnd: {
     libraries: ["React", "Vue.js"],
     frameworks: ["Nuxt, Next"],
-    tools: ["Bootstrap", "SCSS"]
+    tools: ["Bootstrap", "SCSS", "GSAP"]
   },
   backEnd: {
     js: ["Node.js", "Express"],
     apis: ["RESTful APIs"],
-    tools: ["Axios", "Puppeteer", "Sequelize"]
+    tools: ["Axios", "Puppeteer", "Sequelize"],
+    databases: ["MySQL", "MongoDB"]
   },
-  cms: ["Storyblok"]
+  cms: ["Storyblok"],
+  challenges: ["Data Analysis", "Cyber Security", "Machine Learning"]
 
 ```
 <!--
