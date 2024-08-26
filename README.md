@@ -24,7 +24,7 @@ const keittiokyynikko = {
     databases: ["MySQL", "MongoDB"]
   },
   cms: ["Storyblok"],
-  challenges: ["Data Analysis", "Cyber Security", "Machine Learning"]
+  challenges: ["Data Analysis", "Cyber Security", "Machine Learning", "Ethical Hacking"]
 
 ```
 <!--
