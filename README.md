@@ -13,9 +13,9 @@ const keittiokyynikko = {
   description: "Creatively thinking accomplisher",
   languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP", "C#"],
   frontEnd: {
-    libraries: ["React", "Vue.js"],
-    frameworks: ["Nuxt, Next"],
-    tools: ["Bootstrap", "SCSS", "GSAP"]
+    libraries: ["ReactJS", "VueJS"],
+    frameworks: ["NuxtJS, NextJS"],
+    tools: ["Bootstrap", "SCSS", "GSAP", "Tkinter"]
   },
   backEnd: {
     js: ["Node.js", "Express"],
