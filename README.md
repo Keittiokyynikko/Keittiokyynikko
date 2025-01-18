@@ -11,16 +11,16 @@
 const keittiokyynikko = {
   name: "Juuso",
   description: "Creatively thinking accomplisher",
-  languages: ["HTML", "CSS", "JavaScript", "TypeScript", "Python", "PHP", "C#"],
+  languages: ["HTML", "CSS", "JavaScript", "Python", "PHP", "C#"],
   frontEnd: {
     libraries: ["ReactJS", "VueJS"],
     frameworks: ["NuxtJS, NextJS"],
-    tools: ["Bootstrap", "SCSS", "GSAP", "Tkinter"]
+    tools: ["Bootstrap", "Axios", "SCSS", "GSAP", "Tkinter"]
   },
   backEnd: {
     js: ["Node.js", "Express"],
     apis: ["RESTful APIs"],
-    tools: ["Axios", "Puppeteer", "Sequelize"],
+    tools: ["Puppeteer", "Sequelize"],
     databases: ["MySQL", "MongoDB"]
   },
   cms: ["Storyblok"],
