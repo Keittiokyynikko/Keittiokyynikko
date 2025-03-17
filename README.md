@@ -11,10 +11,10 @@
 const keittiokyynikko = {
   name: "Juuso",
   description: "Creatively thinking accomplisher",
-  languages: ["HTML", "CSS", "JavaScript", "Python", "PHP", "C#"],
+  languages: ["HTML", "CSS", "JavaScript", "Python", "TypeScript", "PHP"],
   frontEnd: {
     libraries: ["ReactJS", "VueJS"],
-    frameworks: ["NuxtJS, NextJS"],
+    frameworks: ["NuxtJS"],
     tools: ["Bootstrap", "Axios", "SCSS", "GSAP", "Tkinter"]
   },
   backEnd: {
@@ -24,7 +24,7 @@ const keittiokyynikko = {
     databases: ["MySQL", "MongoDB"]
   },
   cms: ["Storyblok"],
-  challenges: ["Data Analysis", "Cyber Security", "Machine Learning", "Ethical Hacking"]
+  challenges: ["Data Analysis", "Cyber Security", "Machine Learning"]
 
 ```
 <!--
