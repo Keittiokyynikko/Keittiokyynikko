@@ -13,17 +13,18 @@ const keittiokyynikko = {
   description: "Creatively thinking accomplisher",
   languages: ["HTML", "CSS", "JavaScript", "Python", "TypeScript", "PHP"],
   frontEnd: {
-    libraries: ["ReactJS", "VueJS"],
-    frameworks: ["NuxtJS"],
+    libraries: ["React", "Vue"],
+    frameworks: ["Nuxt"],
     tools: ["Bootstrap", "Axios", "SCSS", "GSAP", "Tkinter"]
   },
   backEnd: {
-    js: ["Node.js", "Express"],
-    apis: ["RESTful APIs"],
-    tools: ["Puppeteer", "Sequelize"],
+    js: ["Node", "Express"],
+    python: ["Django"],
+    php: ["Laravel"],
     databases: ["MySQL", "MongoDB"]
   },
   cms: ["Storyblok"],
+  tools: ["Docker", "Cursor"],
   challenges: ["Data Analysis", "Cyber Security", "Machine Learning"]
 
 ```
