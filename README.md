@@ -23,7 +23,8 @@ const keittiokyynikko = {
     databases: ["MySQL", "MongoDB", "PostgreSQL"]
   },
   cms: ["Storyblok"],
-  tools: ["Docker", "Cursor", "Git"],
+  tools: ["Docker", "Git", "Bash"],
+  ai: ["Cursor", "OpenAI", "Claude", "Gemini"],
   challenges: ["Data Analysis", "Cyber Security", "Machine Learning"]
 
 ```
