@@ -18,13 +18,12 @@ const keittiokyynikko = {
     tools: ["Bootstrap", "Axios", "SCSS", "GSAP", "Tkinter"]
   },
   backEnd: {
-    js: ["Node", "Express"],
-    python: ["Django"],
-    php: ["Laravel"],
-    databases: ["MySQL", "MongoDB"]
+    core: ["Node", "Express"],
+    frameworks: ["Django, Laravel, NestJS"],
+    databases: ["MySQL", "MongoDB", "PostgreSQL"]
   },
   cms: ["Storyblok"],
-  tools: ["Docker", "Cursor"],
+  tools: ["Docker", "Cursor", "Git"],
   challenges: ["Data Analysis", "Cyber Security", "Machine Learning"]
 
 ```
